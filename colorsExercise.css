@@ -1,0 +1,47 @@
+/* Color Name */
+h1{
+color: rgb(21, 255, 0);
+background-color: red;
+}
+/* Hexadecimal */
+h2{
+color: #3543c7;
+background-color: #ffa500;
+}
+/* Hexadecimal Shorthand */
+h3{
+color: rgb(109, 12, 201);
+background-color: #ff0;
+}
+/* Hexadecimal w/ Transparency */
+h4{
+color: #be0b0be1;
+background-color: #008000ff;
+}
+/* Hexadecimal w/ Transparency Shorthand */
+h5{
+color: rgb(214, 103, 28);
+background-color: #00ff;
+}
+/* RGB */
+h6{
+color: rgb(230, 215, 8);
+background-color: rgb(75, 0, 130);
+}
+/* RGBA */
+p{
+color: rgb(255, 22, 158);
+background-color: rgba(238, 129, 238, 1);
+/* Bonus Extras */
+}
+#One{
+    color: hotpink;
+}
+#Three{
+    background-color: peachpuff;
+}
+.list{
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+}
