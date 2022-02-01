@@ -1,6 +1,6 @@
 /* Color Name */
 h1{
-color: rgb(21, 255, 0);
+color: green;
 background-color: red;
 }
 /* Hexadecimal */
@@ -10,7 +10,7 @@ background-color: #ffa500;
 }
 /* Hexadecimal Shorthand */
 h3{
-color: rgb(109, 12, 201);
+color: #60c;
 background-color: #ff0;
 }
 /* Hexadecimal w/ Transparency */
@@ -20,7 +20,7 @@ background-color: #008000ff;
 }
 /* Hexadecimal w/ Transparency Shorthand */
 h5{
-color: rgb(214, 103, 28);
+color: #d61f;
 background-color: #00ff;
 }
 /* RGB */
@@ -30,7 +30,7 @@ background-color: rgb(75, 0, 130);
 }
 /* RGBA */
 p{
-color: rgb(255, 22, 158);
+color: RGBA(255, 22, 158, 1);
 background-color: rgba(238, 129, 238, 1);
 /* Bonus Extras */
 }
